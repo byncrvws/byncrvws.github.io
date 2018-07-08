@@ -3,9 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' | escape }}"/>{% endif %}
+    {% if page.description %}<meta itemprop="description" name="description" content="{{ page.description | truncate: 160 }}">{% endif %}
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+    <link rel="canonical" href="{{ page.url | prepend: site.url }}">
     <title>{{ page.title }} | {{site.name}}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">

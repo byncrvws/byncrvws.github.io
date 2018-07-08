@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Beyoncé and JAY-Z put up billboard above Red Lobster in Times Square"
+title:  Beyoncé and JAY-Z put up billboard above Red Lobster in Times Square
+description: All hail The Carters! This past week, an ad for Beyoncé and JAY-Z’s surprise collaborative album, Everything is Love, was put up in Times Square.
 categories: [ Beyoncé, Jay-Z ]
 image: assets/images/2018-07-07-billboard.png
 featured: false

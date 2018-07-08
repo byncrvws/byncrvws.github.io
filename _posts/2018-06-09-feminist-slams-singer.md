@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Aussie feminist slams singer, sportswomen for being ‘virtually naked’ in new documentary"
+title:  Aussie feminist slams singer, sportswomen for being 'virtually naked' in new documentary
+description: OUTSPOKEN feminist Germaine Greer has launched a foul-mouthed rant at Beyoncé over her racy onstage gear.
 categories: [ Beyoncé, Feminist, Naked ]
 image: assets/images/2018-06-09-feminist-slams-germaine.jpg
 featured: true

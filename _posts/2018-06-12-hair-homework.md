@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "The 'Hair Homework' Beyoncé Does at Home"
+title:  The 'Hair Homework' Beyoncé Does at Home
+description: Beyoncé's hair routine to maintain her color is simple and affordable enough for anyone to do at home.
 categories: [ Beyoncé, Hair ]
 image: assets/images/2018-06-12-hair-homework.jpg
 featured: false
