@@ -1,0 +1,34 @@
+# Site
+name: "Weekly Réviews"
+description: "News, Pictures and Videos"
+meta_description: "Réviews | Beyoncé Knowles"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /contents
+google_analytics: 'UA-121997922-1'
+disqus: 'beyoncereviews'
+mailchimp-list: 'https://eepurl.com/dAq9db'
+
+# Authors
+authors:
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+highlighter: rouge
