@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beyoncé is coming to South Africa"
-categories: [ Beyoncé ]
+categories: [ Beyoncé, South Africa, Perform ]
 image: assets/images/2018-07-08-south-africa.jpg
 featured: false
 hidden: false

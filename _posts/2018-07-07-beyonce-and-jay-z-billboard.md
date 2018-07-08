@@ -3,8 +3,8 @@ layout: post
 title:  "Beyoncé and JAY-Z put up billboard above Red Lobster in Times Square"
 categories: [ Beyoncé, Jay-Z ]
 image: assets/images/2018-07-07-billboard.png
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 The clever marketing ploy is a reference to Queen Bey's 2016 smash hit "Formation"
 

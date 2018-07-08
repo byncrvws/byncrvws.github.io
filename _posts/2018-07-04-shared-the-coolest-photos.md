@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beyoncé Just Shared The Coolest Photos From Her Family Vacay"
-categories: [ Beyoncé ]
+categories: [ Beyoncé, Photo ]
 image: assets/images/2018-07-04-shared-photos.jpg
 featured: false
 hidden: false
