@@ -4,7 +4,7 @@ description: "News, Pictures and Videos"
 meta_description: "Réviews | Beyoncé Knowles"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /contents
+baseurl: /
 google_analytics: 'UA-121997922-1'
 disqus: 'beyoncereviews'
 mailchimp-list: 'https://eepurl.com/dAq9db'
