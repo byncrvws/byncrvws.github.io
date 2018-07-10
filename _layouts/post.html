@@ -48,18 +48,6 @@ post_class: post-template
         {% endif %}
         </small>
       </p>
-      <!-- Post Categories -->
-      <div class="after-post-tags">
-        <ul class="tags">
-          {% assign sortedCategories = page.categories | sort %}
-          {% for category in sortedCategories %}
-            <li>
-              <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-      <!-- End Categories -->
       <!-- Prev/Next -->
       <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
         {% if page.previous.url %}
@@ -70,7 +58,7 @@ post_class: post-template
         {% endif %}
         <div class="clearfix"></div>
       </div>
-      <!-- End Categories -->
+      <!-- End Prev/Next -->
     </div>
     <!-- End Post -->
   </div>

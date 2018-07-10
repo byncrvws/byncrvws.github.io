@@ -15,16 +15,8 @@ authors:
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-archives
   - jekyll-sitemap
-
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
+  - jekyll-seo-tag
 
 # Pagination
 paginate: 6
