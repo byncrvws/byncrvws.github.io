@@ -15,7 +15,6 @@ authors:
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-seo-tag
 
 # Pagination
