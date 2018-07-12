@@ -4,7 +4,7 @@ title:  The Louvre is now running a Beyoncé and Jay-Z tour
 description: Beyoncé and Jay-Z have been on a lot of tours in their time, but none of them quite like this one.
 categories: [ Beyoncé, Jay-Z, Concert, Louvre, Tour ]
 image: assets/images/2018-07-09-louvre-tour.png
-featured: true
+featured: false
 hidden: false
 ---
 The Carters have now inspired a visitor trail of the Louvre Museum in Paris, following the recent release of their video for new track Apesh**, which was set in the world famous art gallery.
