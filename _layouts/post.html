@@ -39,6 +39,12 @@ post_class: post-template
       <div class="article-post">
         {{content}}
       </div>
+      <!-- Post Reference -->
+      {% if page.reference %}
+      <p class="article-post">
+        Read more <a href="{{ page.reference }}" target="_blank">here</a>.
+      </p>
+      {% endif %}
       <!-- Post Date -->
       <p>
         <small>

@@ -4,8 +4,9 @@ title:  Aussie feminist slams singer, sportswomen for being 'virtually naked' in
 description: OUTSPOKEN feminist Germaine Greer has launched a foul-mouthed rant at Beyoncé over her racy onstage gear.
 categories: [ Beyoncé, Feminist, Naked ]
 image: assets/images/2018-06-09-feminist-slams-germaine.png
-featured: true
+featured: false
 hidden: false
+reference: 'https://www.news.com.au/entertainment/celebrity-life/celebrities-gone-bad/aussie-feminist-slams-singer-sportswomen-for-being-virtually-naked-in-new-documentary/news-story/7c65a21e4191f2adba1c3b71828a623d'
 ---
 OUTSPOKEN feminist Germaine Greer has launched a foul-mouthed rant at Beyoncé over her racy onstage gear.
 
@@ -28,5 +29,3 @@ Greer, the author of best-selling feminism book The Female Eunuch, also laid int
 Greer made the comments as part of a new BBC2 documentary looking back at her life, which features images of herself nude and exposing her rear.
 
 The film is titled Germaine Bloody Greer and sees the feminist discuss issues and reflect on archive photos.
-
-Read more [here](https://www.news.com.au/entertainment/celebrity-life/celebrities-gone-bad/aussie-feminist-slams-singer-sportswomen-for-being-virtually-naked-in-new-documentary/news-story/7c65a21e4191f2adba1c3b71828a623d).

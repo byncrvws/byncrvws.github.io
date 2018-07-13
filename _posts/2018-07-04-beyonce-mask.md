@@ -6,6 +6,7 @@ categories: [ Beyoncé, Fan ]
 image: assets/images/2018-07-04-beyonce-mask.jpg
 featured: false
 hidden: false
+reference: https://www.bet.com/style/fashion/2018/07/04/beyonce-mask.html
 ---
 Beyonce is often considered unapproachable, but she isn’t higher than giving her fans props when due.
 
@@ -16,5 +17,3 @@ That’s what happened recently when a member of the Beyhive went over the top a
 <br>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I made this OTRII Beyoncé mask and her reaction was the cutest, the best moment of my life😭 <a href="https://twitter.com/hashtag/OTRIIWarsaw?src=hash&amp;ref_src=twsrc%5Etfw">#OTRIIWarsaw</a> <a href="https://twitter.com/hashtag/OTRII?src=hash&amp;ref_src=twsrc%5Etfw">#OTRII</a> <a href="https://t.co/jx1wpJ442K">pic.twitter.com/jx1wpJ442K</a></p>&mdash; J🥑 (@louhearme) <a href="https://twitter.com/louhearme/status/1013363945225248768?ref_src=twsrc%5Etfw">July 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-Read more [here](https://www.bet.com/style/fashion/2018/07/04/beyonce-mask.html).

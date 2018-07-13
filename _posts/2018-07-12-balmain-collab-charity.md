@@ -6,6 +6,7 @@ categories: [ Beyoncé, Balmain, Charity ]
 image: assets/images/2018-07-12-balmain-collab-charity.jpg
 featured: false
 hidden: false
+reference: https://www.independent.co.uk/life-style/fashion/beyonce-balmain-collaboration-coachella-outfits-charity-united-negro-college-fund-a8443536.html
 ---
 Beyoncé’s Coachella set in April will go down in history as one of the most epic performances the festival has ever seen. 
 
@@ -20,5 +21,3 @@ Now though, fans can finally relive Beychella in all its glory by sporting the e
 The new collection, launching at the Paris flagship store on July 13 and worldwide July 14, features three T-shirts and three sweatshirts offered in black, hot pink and bright yellow.
 
 ![Balmain Sweatshirt Yellow]({{ "/assets/images/2018-07-12-balmain-collab-02.jpg" | absolute_url }})
-
-Read more [here](https://www.independent.co.uk/life-style/fashion/beyonce-balmain-collaboration-coachella-outfits-charity-united-negro-college-fund-a8443536.html).

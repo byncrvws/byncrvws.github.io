@@ -6,6 +6,7 @@ categories: [ Beyoncé, Pregnancy ]
 image: assets/images/2018-07-09-another-pregnancy.gif
 featured: true
 hidden: false
+reference: http://perezhilton.com/2018-07-09-beyonce-pregnant-concert-video-twitter-fan-reaction
 ---
 Are fans reading too much into this? Or is Beyoncé really giving us all a big, bumpy hint?!
 
@@ -17,5 +18,3 @@ During an On The Run II concert in Rome over the weekend, Queen Bey gave her dro
 She put her belly on a purposeful display — even accentuating it with an overt tummy rub!
 
 Watch the moment, see the best Beyhive reactions, AND find out the arguments for and against (below)!
-
-Read more [here](http://perezhilton.com/2018-07-09-beyonce-pregnant-concert-video-twitter-fan-reaction).

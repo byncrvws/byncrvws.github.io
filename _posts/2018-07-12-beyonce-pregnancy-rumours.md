@@ -6,6 +6,7 @@ categories: [ Beyoncé, Jay-Z, Pregnancy, Rumour, Performance ]
 image: assets/images/2018-07-12-beyonce-pregnancy-rumours.jpg
 featured: false
 hidden: false
+reference: https://www.mirror.co.uk/3am/celebrity-news/beyonce-sparks-even-more-pregnancy-12904512
 ---
 Beyonce has sparked even more rumours that she's pregnant with baby number four.
 
@@ -20,5 +21,3 @@ As she stands front and centre in a sequined dress singing their hit Bonnie & Cl
 And as the song finished, she placed one hand protectively on her belly and rubbed it, only adding fuel to the fire.
 
 Fans took to Twitter to find out if it was true.
-
-Read more [here](https://www.mirror.co.uk/3am/celebrity-news/beyonce-sparks-even-more-pregnancy-12904512).

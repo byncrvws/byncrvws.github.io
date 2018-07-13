@@ -6,6 +6,7 @@ categories: [ Beyoncé, Investment, Fund ]
 image: assets/images/2018-07-11-investment-fund.jpg
 featured: false
 hidden: false
+reference: https://www.cnbc.com/2018/07/11/investment-fund-backed-by-song-royalties-signs-up-hits-from-major-star.html
 ---
 A new investment fund backed by song royalties has revealed that huge hits by Justin Bieber, Beyonce and Rihanna will form part of its first catalog.
 
@@ -24,5 +25,3 @@ He told CNBC’s Tanya Bryer on Wednesday that the fund will immediately spend �
 Mercuriades said he believed his firm would be able to squeeze more value from a song as the world of streaming continued to grow. He added that a songwriter who doesn’t perform or sell merchandise could particularly benefit.
 
 “If you are a songwriter and you are making $2 or $3 million a year and you are at that place where you need to get a check for $30 million, this is the only thing that gets you there,” he said.
-
-Read more [here](https://www.cnbc.com/2018/07/11/investment-fund-backed-by-song-royalties-signs-up-hits-from-major-star.html).
