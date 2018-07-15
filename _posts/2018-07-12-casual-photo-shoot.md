@@ -4,8 +4,8 @@ title: Beyoncé's Latest Instagram Photoshoot Just Made Life On Tour Totally Ext
 description: Beyoncé Just Casually Posted A Photo Shoot  On Instagram And We're Feeling The Extra
 categories: [ Beyoncé, Photo, Tour, Instagram ]
 image: assets/images/2018-07-12-casual-photo-shoot.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.elle.com/uk/life-and-culture/a22126519/beyonce-instagram-car-park-photo-shoot/
 ---
 Hitting us with her signature level of sass once again, Beyoncé just posted her latest installment in her Instagram photoshoot series. And it's epic.
