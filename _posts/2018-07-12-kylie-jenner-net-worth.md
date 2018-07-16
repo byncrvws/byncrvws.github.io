@@ -4,8 +4,8 @@ title: Kylie Jenner is officially worth more than Beyoncé as she's set to becom
 description: Kylie Jenner is officially worth more than Beyoncé as the youngest ever billionaire
 categories: [ Beyoncé, Kylie Jenner, Net, Worth ]
 image: assets/images/2018-07-12-kylie-jenner-net-worth.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.harpersbazaar.com/uk/celebrities/news/a22116383/kylie-jenner-youngest-ever-billionaire/
 ---
 Kylie Jenner has made history as the youngest person ever to make Forbes' list of America’s Richest Self-Made Women.
