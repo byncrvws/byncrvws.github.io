@@ -4,8 +4,8 @@ title: The Making Of Beyoncé And Mariah Carey’s Couture Cavalli Costumes
 description: For their current tours, the superstar singers have once again turned to the Italian house.
 categories: [ Beyoncé, Couture, Costume, Making ]
 image: assets/images/2018-07-13-the-making-couture-cavalli.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.vogue.co.uk/article/beyonce-mariah-carey-couture-cavalli-costumes
 ---
 Beyoncé and Mariah Carey were back in Roberto Cavalli on stage this weekend – but unlike in 2014 when both divas wore the same embellished, black dress, this time they were dressed in custom-made designs by the Italian label’s new creative director Paul Surridge.
