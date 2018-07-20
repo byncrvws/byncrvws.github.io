@@ -4,8 +4,8 @@ title:  Twitter reacts | Cardi B, Beyoncé & Jay-Z lead 2018 MTV VMA nods
 description: Cardi B got 10, The Carters got 8 but Twitter was pissed about Taylor Swift's 3 nods.
 categories: [ Beyoncé, Jay-Z, Cardi, MTV, VMA ]
 image: assets/images/2018-07-17-cardi-b-beyonce-jay-z-mtv.png
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.timeslive.co.za/tshisa-live/tshisa-live/2018-07-17-twitter-reacts--cardi-b-beyonc--jay-z-lead-2018-mtv-vma-nods/
 ---
 There's no denying that 2018 has been an interesting year as far as music videos are concerned and so the VMA's had their work cut out for them, with Cardi B and The Carters leading the pack at the awards. 
