@@ -16,13 +16,13 @@ All of that has led to people labelling her an exotic dancer and, after being ca
 
 "I was shocked to hear them call me a stripper. I wasn't okay with that. I think it is because of the pictures I have been uploading. I am not a stripper. I am not looking for anything, I am just being myself," she told TshisaLIVE.
 
-<iframe src="https://giphy.com/embed/l4FsAvXijacDUoh7G" width="480" height="228" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/l4FsAvXijacDUoh7G" style="width: 100%;" height="228" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Skolopad said that people judged her because she was comfortable in her skin, and compared herself to Beyoncé.
 
 "When I perform, I am dressed like Beyoncé. Is she a stripper too? She is not. I perform like any other artist and people know that I am not a stripper."
 
-<iframe src="https://giphy.com/embed/k1qeVgsr2ya0E" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/k1qeVgsr2ya0E" style="width: 100%;" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 She said people make assumptions about her when all she was trying to do was make a career out of music.
 
