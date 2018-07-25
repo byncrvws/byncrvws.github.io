@@ -4,8 +4,8 @@ title: Is Beyoncé working on a new project?
 description: Beyoncé has reportedly almost completed the follow-up to her visual LP Lemonade. The 36-year-old megastar only released her joint album with husband Jay-Z, Everything Is Love, a little over a month ago. She is believed to have been secretly penning songs and shooting videos for the new project, which has already caught the attention of Netflix.
 categories: [ Beyoncé, New, Project ]
 image: assets/images/2018-07-20-beyonce-new-project.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://rollingout.com/2018/07/20/is-beyonce-working-on-a-new-project/
 ---
 Beyoncé has reportedly almost completed the follow-up to her visual LP Lemonade.
