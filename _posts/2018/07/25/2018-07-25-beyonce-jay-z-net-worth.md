@@ -3,7 +3,7 @@ layout: post
 title: Beyoncé​ and Jay-Z Might Just Be the Richest Celeb Couple Ever
 description: Beyonce and Jay-Z's combined net worth is so huge your jaw will drop—find out what it is here.
 categories: [ Beyonce, Jay-Z, Net, Worth, Rich ]
-image: assets/images/beyonce-jay-z-net-worth.jpg
+image: assets/images/2018-07-25-beyonce-jay-z-net-worth.jpg
 featured: false
 hidden: false
 reference: https://www.cosmopolitan.com/entertainment/a22528348/beyonce-jay-z-net-worth/
