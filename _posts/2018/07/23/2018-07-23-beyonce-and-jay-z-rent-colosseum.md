@@ -2,7 +2,7 @@
 layout: post
 title: Beyonce and Jay-Z are trying to rent out the Colosseum
 description: Jay-Z and Beyonce are reportedly trying to rent out of the Roman Colosseum.
-categories: [ Beyoncé, Jay-Z, Colosseum, Rent ]
+categories: [ Beyonce, Jay-Z, Colosseum, Rent ]
 image: assets/images/2018-07-23-beyonce-and-jay-z-rent-colosseum.jpg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title:  Beyonce, World Cup Fever and Bastille Day Bash Put France on Alert
 description: Beyonce and Jay-Z are just two of the millions of people under a massive security umbrella in France this weekend that’ll peak with the World Cup final.
-categories: [ Beyoncé, World, Cup, Bastille, France, Alert ]
+categories: [ Beyonce, World, Cup, Bastille, France, Alert ]
 image: assets/images/2018-07-14-france-on-alert.jpg
 featured: false
 hidden: false

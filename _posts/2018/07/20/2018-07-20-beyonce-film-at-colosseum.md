@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé is trying to film something at the Colosseum
 description: A natural progression from the Louvre
-categories: [ Beyoncé, Film, New, Louvre, Colosseum ]
+categories: [ Beyonce, Film, New, Louvre, Colosseum ]
 image: assets/images/2018-07-20-beyonce-film-at-colosseum.jpg
 featured: false
 hidden: false

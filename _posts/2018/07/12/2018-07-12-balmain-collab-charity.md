@@ -2,7 +2,7 @@
 layout: post
 title: Beyonce Announces Balmain Collaboration Where All Proceeds Will Go To Charity
 description: 100 per cent of the proceeds will be donated to the United Negro College Fund
-categories: [ Beyoncé, Balmain, Charity ]
+categories: [ Beyonce, Balmain, Charity ]
 image: assets/images/2018-07-12-balmain-collab-charity.jpg
 featured: false
 hidden: false

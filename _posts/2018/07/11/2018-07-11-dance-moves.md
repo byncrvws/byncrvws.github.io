@@ -2,7 +2,7 @@
 layout: post
 title:  Tina Knowles Lawson Shows Off Her Dance Moves to Daughter Beyoncé's New Song in Cute Clips
 description: Tina Knowles Lawson proved that her daughter isn’t the only one in the family with epic dance moves.
-categories: [ Beyoncé, Dance, Moves, Daughter ]
+categories: [ Beyonce, Dance, Moves, Daughter ]
 image: assets/images/2018-07-11-dance-moves.png
 featured: false
 hidden: false

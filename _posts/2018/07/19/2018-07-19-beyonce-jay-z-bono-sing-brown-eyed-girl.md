@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé, Jay-Z, and Bono Had a Sing-Along to "Brown Eyed Girl" and, Thankfully, Tina Lawson Was There to Capture It on Video
 description: There are few pleasures on the Internet as great as browsing through the Instagram account of Beyoncé's mother, Tina Lawson.
-categories: [ Beyoncé, Jay-Z, Bono, Sing, Brown, Eyed, Girl, Tina, Lawson ]
+categories: [ Beyonce, Jay-Z, Bono, Sing, Brown, Eyed, Girl, Tina, Lawson ]
 image: assets/images/2018-07-19-beyonce-jay-z-bono-sing-brown-eyed-girl.jpg
 featured: false
 hidden: false

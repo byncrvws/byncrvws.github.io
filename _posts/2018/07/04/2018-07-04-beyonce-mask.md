@@ -2,7 +2,7 @@
 layout: post
 title:  ApeSh*t!, Beyonce’s Reaction To This Fan’s Bejeweled On The Run II Mask Was Epic
 description: Beyonce is often considered unapproachable, but she isn’t higher than giving her fans props when due.
-categories: [ Beyoncé, Fan ]
+categories: [ Beyonce, Fan ]
 image: assets/images/2018-07-04-beyonce-mask.jpg
 featured: false
 hidden: false

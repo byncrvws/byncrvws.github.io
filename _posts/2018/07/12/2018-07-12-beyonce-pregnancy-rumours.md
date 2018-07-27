@@ -2,7 +2,7 @@
 layout: post
 title:  Beyonce sparks even more pregnancy rumours as she cradles stomach during live performance with husband Jay Z
 description: The singer shares Blue Ivy, six, and twins Sir and Rumi, one, with her husband
-categories: [ Beyoncé, Jay-Z, Pregnancy, Rumour, Performance ]
+categories: [ Beyonce, Jay-Z, Pregnancy, Rumour, Performance ]
 image: assets/images/2018-07-12-beyonce-pregnancy-rumours.jpg
 featured: false
 hidden: false

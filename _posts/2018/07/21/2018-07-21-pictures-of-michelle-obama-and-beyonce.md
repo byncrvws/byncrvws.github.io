@@ -2,7 +2,7 @@
 layout: post
 title: 11 Times Michelle Obama and Beyoncé Were BFF Goals
 description: Who run the world? Girls, of course. Michelle Obama and Beyoncé; are both prime examples of that. The two influential women have expressed their mutual
-categories: [ Beyoncé, Michelle, Obama, BFF, Pictures, Photo ]
+categories: [ Beyonce, Michelle, Obama, BFF, Pictures, Photo ]
 image: assets/images/2018-07-21-pictures-of-michelle-obama-and-beyonce.jpg
 featured: false
 hidden: false

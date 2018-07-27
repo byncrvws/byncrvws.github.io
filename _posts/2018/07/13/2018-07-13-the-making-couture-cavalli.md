@@ -2,7 +2,7 @@
 layout: post
 title: The Making Of Beyoncé And Mariah Carey’s Couture Cavalli Costumes
 description: For their current tours, the superstar singers have once again turned to the Italian house.
-categories: [ Beyoncé, Couture, Costume, Making ]
+categories: [ Beyonce, Couture, Costume, Making ]
 image: assets/images/2018-07-13-the-making-couture-cavalli.jpg
 featured: false
 hidden: false

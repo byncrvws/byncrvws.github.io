@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé shows off her busty cleavage as she relaxes with husband Jay-Z on board luxury yacht in Italy... amid pregnancy rumours
 description: Who run the world? Girls, of course. Michelle Obama and Beyoncé; are both prime examples of that. The two influential women have expressed their mutual
-categories: [ Beyoncé, Jay-Z, Cleavage, Relax, Husband, Luxury, Yacht, Italy ]
+categories: [ Beyonce, Jay-Z, Cleavage, Relax, Husband, Luxury, Yacht, Italy ]
 image: assets/images/2018-07-22-beyonce-shows-busty-cleavage-relaxes-husband-jay-Z-onboard-luxury-yacht-italy.jpg
 featured: false
 hidden: false

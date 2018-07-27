@@ -2,7 +2,7 @@
 layout: post
 title:  Jessica Nkosi; I know I look like Beyoncé
 description: Earlier this year Skolopad took to Twitter to let fans know 'they say I look like Beyoncé'. Fast forward to July and it would seem that Jessica Nkosi shares the same sentiment — and so does her mom.
-categories: [ Beyoncé, Jessica Nkosi ]
+categories: [ Beyonce, Jessica Nkosi ]
 image: assets/images/2018-07-07-jessica-nkosi.jpg
 featured: false
 hidden: false

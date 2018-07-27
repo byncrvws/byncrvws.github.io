@@ -2,7 +2,7 @@
 layout: post
 title:  Beyoncé Might Be Getting Ready To Take Over the Colosseum in Rome
 description: After filming at the Louvre with hubby Jay-Z, Queen Bey sets her sights on the Colosseum.After filming at the Louvre with hubby Jay-Z, Queen Bey sets her sights on the Colosseum.
-categories: [ Beyoncé, Colosseum, Rome ]
+categories: [ Beyonce, Colosseum, Rome ]
 image: assets/images/2018-07-19-take-over-colosseum-rome.jpg
 featured: false
 hidden: false

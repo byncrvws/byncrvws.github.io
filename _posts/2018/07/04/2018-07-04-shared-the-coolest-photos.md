@@ -2,7 +2,7 @@
 layout: post
 title:  Beyoncé Just Shared The Coolest Photos From Her Family Vacay
 description: After their show in Poland, where Beyoncé found herself stuck on stage, the Carters took a well-deserved mini-vacation with their oldest daughter, Blue Ivy.
-categories: [ Beyoncé, Photo ]
+categories: [ Beyonce, Photo ]
 image: assets/images/2018-07-04-shared-photos.jpg
 featured: false
 hidden: false

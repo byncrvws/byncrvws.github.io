@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé Shows Off Bikini Body In Vacation Photos Where Jay-Z’s Twins Are Walking
 description: OMG, Beyoncé's twins are walking. Over the weekend, Jay-Z and his entire family were spotted relaxing on a luxury yacht on the Amalfi Coast in
-categories: [ Beyoncé, Jay-Z, Twins, Bikini, Body, Vacation, Photo ]
+categories: [ Beyonce, Jay-Z, Twins, Bikini, Body, Vacation, Photo ]
 image: assets/images/2018-07-21-beyonce-shows-off-bikini-body-with-twins.jpg
 featured: false
 hidden: false

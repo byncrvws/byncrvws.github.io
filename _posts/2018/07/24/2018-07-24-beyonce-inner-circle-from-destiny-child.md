@@ -2,7 +2,7 @@
 layout: post
 title: "Beyonce's Inner Circle: From Destiny's Child to 2018"
 description: The Formation singer surrounds herself with other celebrities but famous faces aren't the only ones inside Queen Bey's inner circle. Watch!
-categories: [ Beyoncé, Inner, Circle, Destiny, Child ]
+categories: [ Beyonce, Inner, Circle, Destiny, Child ]
 image: assets/images/2018-07-24-beyonce-inner-circle-from-destiny-child.jpg
 featured: false
 hidden: false

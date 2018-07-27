@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé Is ~Rumoured~ To Be Dropping Her Next Visual Album On Netflix
 description: Beyoncé is rumoured to be dropping her next visual album via Netflix as a follow up to the highly acclaimed Lemonade, sources reveal.
-categories: [ Beyoncé, Visual, Album, Netflix ]
+categories: [ Beyonce, Visual, Album, Netflix ]
 image: assets/images/2018-07-25-beyonce-visual-album-netflix.jpg
 featured: true
 hidden: true

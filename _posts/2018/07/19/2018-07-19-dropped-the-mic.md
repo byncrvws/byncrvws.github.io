@@ -2,7 +2,7 @@
 layout: post
 title:  Beyoncé Actually Dropped the Mic and Fans Can't Deal With It
 description: Beyoncé made the world stop for fans at her On the Run II tour concert when she literally dropped the mic after singing "Resentment"
-categories: [ Beyoncé, Dropped, Mic ]
+categories: [ Beyonce, Dropped, Mic ]
 image: assets/images/2018-07-19-dropped-the-mic.jpg
 featured: true
 hidden: true

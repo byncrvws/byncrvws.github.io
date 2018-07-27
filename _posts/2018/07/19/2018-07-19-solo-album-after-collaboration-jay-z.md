@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé gets to work on solo album weeks after collaboration with hubby Jay-Z flops in charts
 description: Superstar Bey has already completed much of her seventh record, mere weeks after disappointing with husband Jay-Z's collaboration Everything Is Love. Beyoncé's "visual project" - basically a set of music videos - will take her to the ruins of the Colosseum in Rome.
-categories: [ Beyoncé, Jay-Z, Work, Solo, Album, Collaboration, Hubby ]
+categories: [ Beyonce, Jay-Z, Work, Solo, Album, Collaboration, Hubby ]
 image: assets/images/2018-07-19-solo-album-after-collaboration-jay-z.jpg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title:  So, Beyoncé is finally coming to SA & obvs Mzansi has a wish list!
 description: The African ancestors have finally come through for us and helped Beyoncé and other really awesome superstars to locate Africa, particularly South Africa, on the map!
-categories: [ Beyoncé, Concert, South Africa ]
+categories: [ Beyonce, Concert, South Africa ]
 image: assets/images/2018-07-09-beyonce-coming-to-sa.jpg
 featured: false
 hidden: false

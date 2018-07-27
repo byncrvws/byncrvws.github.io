@@ -2,7 +2,7 @@
 layout: post
 title:  Did Beyoncé Just Confirm ANOTHER Pregnancy??
 description: Are fans reading too much into this? Or is Beyoncé really giving us all a big, bumpy hint?! During an On The Run II concert in Rome over the weekend, Queen Bey gave her drones something to buzz about. 
-categories: [ Beyoncé, Pregnancy ]
+categories: [ Beyonce, Pregnancy ]
 image: assets/images/2018-07-09-another-pregnancy.gif
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title: FirstEnergy being prepped for Beyoncé, Jay-Z concert; parking restrictions coming
 description: The stage is being set at FirstEnergy Stadium for the Beyoncé and Jay-Z concert tonight. If you are heading downtown, there are a number of parking restrictions that will be in effect tonight. The “OTR II Tour”  kicks off at 7:30 p.m. at FirstEnergy Stadium.
-categories: [ Beyoncé, Jay-Z, FirstEnergy, Concert, Parking ]
+categories: [ Beyonce, Jay-Z, FirstEnergy, Concert, Parking ]
 image: assets/images/2018-07-25-firstenergy-being-prepped-for-beyonce-jay-z-concert.png
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title: Is Beyoncé’s natural hair really that long? The misconception about black hair
 description: Why don't people believe that Beyoncé’s hair can be natural?
-categories: [ Beyoncé, Hair, Natural ]
+categories: [ Beyonce, Hair, Natural ]
 image: assets/images/2018-07-12-long-natural-hair.jpg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title: Jay-Z and Beyoncé Get Standing Ovation Leaving Restaurant in Italy
 description: Beyonce and Jay-Z can get people up on their feet just by leaving a restaurant.
-categories: [ Beyoncé, Jay-Z, Ovation, Restaurant, Italy ]
+categories: [ Beyonce, Jay-Z, Ovation, Restaurant, Italy ]
 image: assets/images/2018-07-23-jay-z-beyonce-standing-ovation-leaving-restaurant.jpeg
 featured: false
 hidden: false

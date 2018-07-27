@@ -2,7 +2,7 @@
 layout: post
 title:  LA Roxx Is the Brand Behind Looks for Beyoncé, YG, & Charli XCX
 description: The legendary LA brand continues to level up, as current designer Sharon Rahim speaks to "The FADER" about their latest work for Beyoncé.
-categories: [ Beyoncé, LA, Roxx, Brand, Designer, Look, Work, Sharon, Rahim ]
+categories: [ Beyonce, LA, Roxx, Brand, Designer, Look, Work, Sharon, Rahim ]
 image: assets/images/2018-07-17-la-roxx-brand-behind-beyonce.jpg
 featured: false
 hidden: false

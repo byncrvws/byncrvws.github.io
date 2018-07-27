@@ -2,7 +2,7 @@
 layout: post
 title:  Beyoncé is coming to South Africa
 description: According to City Press, speculation is rife that the global pop sensation will be coming to our shores to perform at the Global Citizen Festival; Mandela 100 in December.
-categories: [ Beyoncé, South Africa, Perform ]
+categories: [ Beyonce, South Africa, Perform ]
 image: assets/images/2018-07-08-south-africa.jpg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title: Italian government playing like it's not going to let Beyoncé film at any ancient landmarks she goddamn wants
 description: Who run the world? Girls, of course. Michelle Obama and Beyoncé; are both prime examples of that. The two influential women have expressed their mutual
-categories: [ Beyoncé, Italian, Government, Film, Landmark, Ancient ]
+categories: [ Beyonce, Italian, Government, Film, Landmark, Ancient ]
 image: assets/images/2018-07-21-italian-government-playing-like-its-not-going-to-let-beyonce-film.jpg
 featured: false
 hidden: false

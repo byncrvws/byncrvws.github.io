@@ -2,7 +2,7 @@
 layout: post
 title:  Beyoncé & Jay-Z Chucked The World Cup On A Giant Screen For Punters In Paris
 description: Knowing they weren't the only show in town, Beyoncé & Jay-Z screened the World Cup Final for fans prior to their show overnight in Paris.
-categories: [ Beyoncé, Jay-Z, Paris, World, Cup, Screen, Performance ]
+categories: [ Beyonce, Jay-Z, Paris, World, Cup, Screen, Performance ]
 image: assets/images/2018-07-16-giant-screen-in-paris.jpg
 featured: false
 hidden: false

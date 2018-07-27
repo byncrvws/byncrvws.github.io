@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé's hairdresser of 13 years is spilling all of her hair secrets and we're living for it
 description: The man behind every look from her Formation braid to her Met Gala side ponytail speaks out.
-categories: [ Beyoncé, Neal, Farinah, Hairdresser, Secrets, Hair ]
+categories: [ Beyonce, Neal, Farinah, Hairdresser, Secrets, Hair ]
 image: assets/images/2018-07-18-beyonces-hairdresser-neal-farinah-reveals-her-secrets.jpg
 featured: false
 hidden: false

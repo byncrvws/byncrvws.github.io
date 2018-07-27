@@ -2,7 +2,7 @@
 layout: post
 title:  Beyonce, Jay-Z headline Mandela concert
 description: Beyonce and Jay-Z will headline a special Global Citizen Festival in honor of Nelson Mandela.
-categories: [ Beyoncé, Concert, Mandela ]
+categories: [ Beyonce, Concert, Mandela ]
 image: assets/images/2018-07-09-mandela-concert.jpg
 featured: false
 hidden: false

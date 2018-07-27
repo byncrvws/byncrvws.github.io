@@ -2,7 +2,7 @@
 layout: post
 title: Neal Farinah, Beyoncé's Hairstylist for 13 Years, Says She's "Empowered" With Curly Hair
 description: Neal Farinah has been working with Beyoncé for 13 years.
-categories: [ Beyoncé, Hair, Neal Farinah, Hairstylist ]
+categories: [ Beyonce, Hair, Neal Farinah, Hairstylist ]
 image: assets/images/2018-07-14-empowered-with-curly-hair.jpg
 featured: false
 hidden: false

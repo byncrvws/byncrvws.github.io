@@ -2,7 +2,7 @@
 layout: post
 title: Is Beyoncé a stripper too? - Skolopad hits back at nudist haters
 description: Beyonce and Jay-Z can get people up on their feet just by leaving a restaurant.
-categories: [ Beyoncé, Stripper, Skolopad, Nudist, Haters ]
+categories: [ Beyonce, Stripper, Skolopad, Nudist, Haters ]
 image: assets/images/2018-07-24-is-beyonc-a-stripper-too-skolopad-hits-back-at-nudist-haters.jpg
 featured: false
 hidden: false

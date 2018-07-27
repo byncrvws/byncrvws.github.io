@@ -2,7 +2,7 @@
 layout: post
 title: Celebs Like Jennifer Garner and Beyoncé Have More Than One Job
 description: Sure, you know them as larger-than-life personalities on screen and in gossip mags. But many celebrities have interests—and jobs—outside the entertainment industry. Soul singer/songwriter Erykah Badu, for instance, has assisted at more than 40 births in her role as a certified doula (childbirth coach). Singer Patti LaBelle is also a pie maven, whose sweet potato
-categories: [ Beyoncé, Jennifer, Garner, Celebs, More, Job ]
+categories: [ Beyonce, Jennifer, Garner, Celebs, More, Job ]
 image: assets/images/2018-07-20-celebs-jennifer-garner-beyonce-more-than-one-job.jpg
 featured: false
 hidden: false

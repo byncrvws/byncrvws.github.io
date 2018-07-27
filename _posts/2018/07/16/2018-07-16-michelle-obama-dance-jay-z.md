@@ -2,7 +2,7 @@
 layout: post
 title:  Watch Michelle Obama Dance to Jay-Z With Beyonce’s Mom
 description: Michelle Obama danced to Jay-Z's "On to the Next One" with Beyoncé's mother, Tina Knowles, during the Carters; concert in Paris, France.
-categories: [ Beyoncé, Jay-Z, Michelle, Obama, Dance, Concert, Paris ]
+categories: [ Beyonce, Jay-Z, Michelle, Obama, Dance, Concert, Paris ]
 image: assets/images/2018-07-16-michelle-obama-dance-jay-z.jpg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title:  Beyoncé Had an Impromptu Photo Shoot on Her Private Jet
 description: When it comes to fashion, no one outdoes Beyoncé's style. Bey took to her Instagram on Saturday to share new pictures and, just like every time she graces us with a series of Instagram posts, the pictures were a blessing to our feeds.
-categories: [ Beyoncé, Photo, Private Jet ]
+categories: [ Beyonce, Photo, Private Jet ]
 image: assets/images/2018-07-02-photo-shoot.jpg
 featured: false
 hidden: false

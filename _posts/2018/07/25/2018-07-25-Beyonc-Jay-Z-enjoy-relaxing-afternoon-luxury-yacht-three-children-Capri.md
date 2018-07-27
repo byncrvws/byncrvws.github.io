@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé and Jay-Z enjoy a relaxing afternoon on a luxury yacht
 description: It was all about family time - and then alone time - for Beyoncé and Jay-Z on Tuesday, as they took to the seas around Capri, Italy, for a sun-drenched afternoon in the sunshine.
-categories: [ Beyoncé, Jay-Z, Relax, Yacht, Luxury, Capri, Italy ]
+categories: [ Beyonce, Jay-Z, Relax, Yacht, Luxury, Capri, Italy ]
 image: assets/images/2018-07-25-Beyonc-Jay-Z-enjoy-relaxing-afternoon-luxury-yacht-three-children-Capri.jpg
 featured: false
 hidden: false

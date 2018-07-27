@@ -2,7 +2,7 @@
 layout: post
 title:  Investment fund backed by song royalties signs up hits from major stars
 description: A newly listed company is building an investment fund backed by song royalties..
-categories: [ Beyoncé, Investment, Fund ]
+categories: [ Beyonce, Investment, Fund ]
 image: assets/images/2018-07-11-investment-fund.jpg
 featured: false
 hidden: false

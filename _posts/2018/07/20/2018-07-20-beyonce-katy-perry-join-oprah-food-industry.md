@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé, Katy Perry and 7 other celebs join Oprah in food industry investments
 description: Beyonce, Katy Perry and 7 other celebs join Oprah in food industry investments
-categories: [ Beyoncé, Jennifer, Garner, Celebs, More, Job ]
+categories: [ Beyonce, Jennifer, Garner, Celebs, More, Job ]
 image: assets/images/2018-07-20-beyonce-katy-perry-join-oprah-food-industry.jpg
 featured: false
 hidden: false

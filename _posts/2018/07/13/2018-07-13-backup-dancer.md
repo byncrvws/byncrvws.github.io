@@ -2,7 +2,7 @@
 layout: post
 title: Here's what it takes to become a backup dancer for Beyoncé
 description: Here's what it takes to become a backup dancer for Beyoncé
-categories: [ Beyoncé, Backup, Dancer ]
+categories: [ Beyonce, Backup, Dancer ]
 image: assets/images/2018-07-13-backup-dance.jpg
 featured: false
 hidden: false

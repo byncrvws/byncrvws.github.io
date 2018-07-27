@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé and the Bible
 description: What Queen Bey’s music can teach us about scripture — and vice versa.
-categories: [ Beyoncé, Bible ]
+categories: [ Beyonce, Bible ]
 image: assets/images/2018-07-19-beyonce-and-bible.jpg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title:  Beyoncé's dad told us why she forms a prayer circle with her crew before every performance
 description: Beyoncé is not a laissez-faire style leader, according to her dad, Mathew Knowles.
-categories: [ Beyoncé, Prayer, Circle, Crew, Performance, Leader, Mathew, Faire ]
+categories: [ Beyonce, Prayer, Circle, Crew, Performance, Leader, Mathew, Faire ]
 image: assets/images/2018-07-17-beyonce-dad-prayer-circle.jpg
 featured: false
 hidden: false

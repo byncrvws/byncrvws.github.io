@@ -2,7 +2,7 @@
 layout: post
 title:  Beyoncé and Jay-Z played the World Cup final on huge screens before Paris show
 description: Jay-Z and Beyonce made sure that their devoted French fans didn't miss out on the World Cup final yesterday
-categories: [ Beyoncé, Jay-Z, Paris, World, Cup, Final, Screen, Performance ]
+categories: [ Beyonce, Jay-Z, Paris, World, Cup, Final, Screen, Performance ]
 image: assets/images/2018-07-16-played-world-cup-final-on-screen.jpg
 featured: false
 hidden: false

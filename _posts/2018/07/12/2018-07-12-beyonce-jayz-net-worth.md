@@ -2,7 +2,7 @@
 layout: post
 title:  Jay-Z And Beyonce Are Now Worth A Combined $1.255 Billion--And Counting
 description: Entertainers can be prone to exaggeration, particularly when it comes to wealth. But Beyoncé? She seems to be right on the money.
-categories: [ Beyoncé, Jay-Z, Net, Worth, Billion, Dollar ]
+categories: [ Beyonce, Jay-Z, Net, Worth, Billion, Dollar ]
 image: assets/images/2018-07-12-beyonce-jayz-net-worth.jpg
 featured: false
 hidden: false

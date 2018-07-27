@@ -2,7 +2,7 @@
 layout: post
 title: Beyonce's message to South Africa
 description: Beyoncé's message to South Africa
-categories: [ Beyoncé, South Africa, Message ]
+categories: [ Beyonce, South Africa, Message ]
 image: assets/images/2018-07-13-message-to-south-africa.png
 featured: false
 hidden: false

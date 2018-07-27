@@ -2,7 +2,7 @@
 layout: post
 title:  Beyonce sizzles on-stage in pearl adorned bodysuit as she joins husband Jay-Z for On The Run II Paris show
 description: Beyonce looked sensational as she joined husband Jay-Z for the couple's performance in Paris on Saturday, as part of their On The Run II tour.
-categories: [ Beyoncé, Jay-Z, Paris, Show, Performance, Tour ]
+categories: [ Beyonce, Jay-Z, Paris, Show, Performance, Tour ]
 image: assets/images/2018-07-15-on-the-run-paris-show.jpg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title: Beyoncé Serves Serious 'Under Cheek' In These $108 Barely There Booty Shorts
 description: They don’t call her bootylicious for nothing.
-categories: [ Beyoncé, Booty, Shorts ]
+categories: [ Beyonce, Booty, Shorts ]
 image: assets/images/2018-07-13-under-cheek-barely-booty-shorts.jpg
 featured: false
 hidden: false

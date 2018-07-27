@@ -2,7 +2,7 @@
 layout: post
 title: Markus Klinko Dishes on Working with Beyoncé
 description: “Extra” spoke with famed photographer Markus Klinko at his exhibit at the Mouche gallery in Beverly Hills, where he opened up on his iconic work on Beyoncé’s cover for “Dangerously in Love.” Beyoncé actually wore his jeans for the shoot.
-categories: [ Beyoncé, Markus, Klinko, Photographer, Denim ]
+categories: [ Beyonce, Markus, Klinko, Photographer, Denim ]
 image: assets/images/2018-07-20-markus-klinko-working-with-beyonce.jpg
 featured: false
 hidden: false

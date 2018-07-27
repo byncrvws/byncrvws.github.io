@@ -2,7 +2,7 @@
 layout: post
 title: 'Put your freakum dress on: Burberry looks to Beyonce for a lesson in business'
 description: Luxury fashion house Burberry looks to Beyonce for a lesson in business
-categories: [ Beyoncé, Burberry, Business, Lesson ]
+categories: [ Beyonce, Burberry, Business, Lesson ]
 image: assets/images/2018-07-12-burberry-business-lesson.jpg
 featured: false
 hidden: false

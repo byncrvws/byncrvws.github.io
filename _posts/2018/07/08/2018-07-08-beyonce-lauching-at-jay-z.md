@@ -2,7 +2,7 @@
 layout: post
 title:  Beyoncé laughing at Jay-Z in the middle of a performance will give you life
 description: Obviously she can't actually stop climate change, bring back your favorite World Cup team, or right all of the wrongs on Capitol Hill — but this video of her might distract you enough to actually bring a smile to your face.
-categories: [ Beyoncé, Jay-Z ]
+categories: [ Beyonce, Jay-Z ]
 image: assets/images/2018-07-08-laughing.jpg
 featured: false
 hidden: false

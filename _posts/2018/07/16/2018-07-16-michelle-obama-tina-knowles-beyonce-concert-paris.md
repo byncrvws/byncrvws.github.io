@@ -2,7 +2,7 @@
 layout: post
 title:  Michelle Obama and Tina Knowles Lawson Are Casually Hanging Out at Beyoncé's Concert in Paris
 description: Michelle Obama, Sasha Obama, and Tina Knowles Lawson were all spotted in the audience of Beyonce and Jay-Z's second Paris concert. The Carters screened the final game of the World Cup, which France won, just before the concert.
-categories: [ Beyoncé, Michelle, Obama, Tina, Knowles, Concert, Paris ]
+categories: [ Beyonce, Michelle, Obama, Tina, Knowles, Concert, Paris ]
 image: assets/images/2018-07-16-michelle-obama-tina-knowles-beyonce-concert-paris.jpg
 featured: false
 hidden: false

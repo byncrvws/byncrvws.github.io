@@ -2,7 +2,7 @@
 layout: post
 title:  Even Jay-Z Would Be In Awe of These Sexy Beyoncé Pictures
 description: Beyoncé's hair routine to maintain her color is simple and affordable enough for anyone to do at home.
-categories: [ Beyoncé, Sexy, Pictures, Jay-Z, Awe ]
+categories: [ Beyonce, Sexy, Pictures, Jay-Z, Awe ]
 image: assets/images/2018-07-14-jay-z-in-awe-sexy-pictures.jpg
 featured: false
 hidden: false

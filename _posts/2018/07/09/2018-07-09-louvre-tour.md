@@ -2,7 +2,7 @@
 layout: post
 title:  Get in formation for the Louvre’s new Beyonce tour
 description: The Louvre Museum is offering a self-guided tour of the art seen in the ‘APESHIT’ video, cementing Jay-Z and Beyonce’s tastemakers status.
-categories: [ Beyoncé, Concert, Louvre, Tour ]
+categories: [ Beyonce, Concert, Louvre, Tour ]
 image: assets/images/2018-07-09-louvre-tour.png
 featured: false
 hidden: false

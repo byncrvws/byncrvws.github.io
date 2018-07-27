@@ -2,7 +2,7 @@
 layout: post
 title: Selena Gomez Strips Instagram Record For Most-Liked Post From Beyoncé
 description: The stage is being set at FirstEnergy Stadium for the Beyoncé and Jay-Z concert tonight. If you are heading downtown, there are a number of parking restrictions that will be in effect tonight. The “OTR II Tour”  kicks off at 7:30 p.m. at FirstEnergy Stadium.
-categories: [ Beyoncé, Selena, Gomez, Instagram, Record, Most-Liked ]
+categories: [ Beyonce, Selena, Gomez, Instagram, Record, Most-Liked ]
 image: assets/images/2018-07-25-selena-gomez-beyonce-instagram-record.jpg
 featured: true
 hidden: true
