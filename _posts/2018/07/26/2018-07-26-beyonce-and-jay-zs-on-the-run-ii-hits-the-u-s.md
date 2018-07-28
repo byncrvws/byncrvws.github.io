@@ -4,8 +4,8 @@ title: Beyoncé and Jay-Z's 'On The Run II' Hits the U.S.
 description: Photos from their American tour opener in Cleveland.
 categories: [ Beyonce, Photo, Jay-Z, US ]
 image: assets/images/2018-07-26-beyonce-and-jay-zs-on-the-run-ii-hits-the-u-s.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://foto.gettyimages.com/celebrity/musicians/beyonce-and-jay-zs-on-the-run-ii-hits-the-u-s/
 ---
 Mr. and Mrs. Carter stay busy: They kicked off a world tour in Cardiff on June 6, released a surprise joint album "Everything Is Love" 10 days later, then swung through several European cities for more concert dates. On July 25, they finally brought "On the Run II" home to the United States. The couple, who celebrated their 10-year wedding anniversary earlier this year will end their tour in Seattle on October 4. Here, some highlights from the first night in Cleveland:
