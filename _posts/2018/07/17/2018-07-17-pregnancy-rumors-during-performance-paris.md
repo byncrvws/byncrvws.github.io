@@ -4,8 +4,8 @@ title:  Beyonce Ignites Pregnancy Rumors During Performance in Paris
 description: The Beyhive got buzzing about another pregnancy when footage of Beyonce performing in Paris over the weekend hit the Internet Tuesday.
 categories: [ Michelle, Pregnancy, Rumors, Performance, Paris ]
 image: assets/images/2018-07-17-pregnancy-rumors-during-performance-paris.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: http://toofab.com/2018/07/17/beyonce-ignites-pregnancy-rumors-during-performance-in-paris/
 ---
 The Beyhive got buzzing about another pregnancy when footage of Beyonce performing in Paris over the weekend hit the internet Tuesday.
