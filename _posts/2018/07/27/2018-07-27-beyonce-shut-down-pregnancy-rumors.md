@@ -4,8 +4,8 @@ title: Beyoncé just shut down pregnancy rumors again, and can she live?
 description: In a performance from her second On the Run Tour in Europe, Beyoncé shut down all rumors of a fourth pregnancy, which swirled earlier this month.
 categories: [ Beyonce, Pregnancy, Rumor ]
 image: assets/images/2018-07-27-beyonce-shut-down-pregnancy-rumors.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://hellogiggles.com/news/beyonce-shut-down-pregnancy-rumors/
 ---
 She woke up like this. Beyoncé just cleared up all rumors of a fourth pregnancy during her On the Run Tour II. And for the love of all things Blue Ivy, can she live? The Shade Room took to Instagram on July 26th to post a clip of the “Apes**t” singer recently performing her hit “Flawless” on stage in Cleveland, Ohio. In the clip, Beyoncé croons the lyrics “I woke up like this” and rubs her belly. Earlier this month, rumors swirled of a possible baby no. 4 for the Carters, but it looks like Bey just squashed the gossip.

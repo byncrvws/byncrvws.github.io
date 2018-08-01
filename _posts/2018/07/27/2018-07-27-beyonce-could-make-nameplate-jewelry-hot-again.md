@@ -4,8 +4,8 @@ title: Beyoncé Could Make Nameplate Jewelry Hot Again
 description: Beyoncé is making nameplate jewelry hot again with her diamond hoop earrings she wore in France last week.
 categories: [ Beyonce, Nameplate, Jewelry ]
 image: assets/images/2018-07-27-beyonce-could-make-nameplate-jewelry-hot-again.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.hollywoodreporter.com/news/beyonce-could-make-nameplate-jewelry-hot-again-1130205
 ---
 Is Beyonce the new Carrie Bradshaw?
