@@ -4,8 +4,8 @@ title: Why it takes Beyoncé to get a black photographer on the cover of US Vogu
 description: If rumours are true, Tyler Mitchell, 23, will be the first black photographer to shoot the magazine’s cover image in its 126-year history. Fellow creative, 19-year old David Uzochukwu, explains how people of colour are effecting change
 categories: ["Beyonce", "Black", "Photographer", "Cover", "Vogue", "Tyler", "Mitchell"]
 image: assets/images/2018-08-01-beyonce-black-photographer-cover-us-vogue-tyler-mitchell.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.theguardian.com/fashion/shortcuts/2018/jul/31/beyonce-black-photographer-cover-us-vogue-tyler-mitchell
 ---
 When I woke up to the news that Tyler [Mitchell] had apparently got the shoot I was as excited as if I had shot Beyoncé myself. And if we look at the situation, yes, if it’s true, it’s a moment to be celebrated – but it’s also sad. It is not US Vogue that chose him. It is Beyoncé. A powerhouse of the music industry. She’s the one who pulled him in, one of the most famous women in the world. And that’s telling.

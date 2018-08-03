@@ -4,8 +4,8 @@ title: Beyoncé given 'unprecedented' control over Vogue cover shoot
 description: Beyoncé has reportedly hired the first ever black photographer to shoot a cover for Vogue after being given unprecedented control over its September issue.
 categories: [ Beyonce, Vogue, Cover, Shoot ]
 image: assets/images/2018-07-31-beyonce-given-unprecedented-control-vogue-cover-shoot.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.telegraph.co.uk/news/2018/07/31/beyonce-given-unprecedented-control-vogue-cover-shoot/
 ---
 Beyoncé has reportedly hired the first ever black photographer to shoot a cover for Vogue after being given unprecedented control over its September issue.
