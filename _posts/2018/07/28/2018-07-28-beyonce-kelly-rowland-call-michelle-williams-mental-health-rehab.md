@@ -4,8 +4,8 @@ title: Beyoncé & Kelly Rowland Reach Out to Michelle ... WE HAVE YOUR BACK!!
 description: Beyoncé and Kelly Rowland called Michelle Williams to say they've got her back.
 categories: [ Beyonce, Kelly, Rowland, Michelle, Mental, Rehab ]
 image: assets/images/2018-07-28-beyonce-kelly-rowland-call-michelle-williams-mental-health-rehab.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: http://www.tmz.com/2018/07/28/beyonce-kelly-rowland-call-michelle-williams-mental-health-rehab/
 ---
 Beyoncé and Kelly Rowland immediately dropped what they were doing when they heard Michelle Williams checked into a mental health facility to treat her depression ... and, like good, longtime friends, they reached out to offer their support.

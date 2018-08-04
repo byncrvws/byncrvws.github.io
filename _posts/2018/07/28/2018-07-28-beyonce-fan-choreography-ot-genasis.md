@@ -4,8 +4,8 @@ title: When Beyoncé Asked This Fan To Dance To Her Choreography, He Didn't Disa
 description: “I know you know the choreography. I’m watching y’all!”
 categories: [ Beyonce, Choreography, Fan, Dance ]
 image: assets/images/2018-07-28-beyonce-fan-choreography-ot-genasis.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.essence.com/entertainment/beyonce-fan-choreography-ot-genasis
 ---
 If Queen Bey points to you during her concert and orders you to do the choreography of one of her sets, you better show up and slay!

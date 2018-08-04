@@ -4,8 +4,8 @@ title: Beyoncé Shares a Sweet Photo of Twins Rumi and Sir on Their Family Vacat
 description: Beyoncé shared the photo of herself holding her 13-month-old twins Rumi and Sir in her lap during a family trip to Europe
 categories: [ Beyonce, Photo, Twins, Rumi, Sir, Europe, Family ]
 image: assets/images/2018-07-26-beyonce-shares-photo-twins-european-vacation.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://people.com/babies/beyonce-shares-photo-twins-european-vacation/
 ---
 Beyoncé has pulled back the curtain on her family life a bit more by sharing a sweet photo of her twins.

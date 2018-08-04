@@ -4,8 +4,8 @@ title: Beyoncé and JAY-Z’s New Jersey show was temporarily evacuated due to s
 description: Beyonce and JAY-Z's fans were not too happy about being kicked out of MetLife Stadium.
 categories: ["Beyonce", "Jersey", "Show", "Evacuation"]
 image: assets/images/2018-08-03-beyonce-jay-z-on-the-run-ii-new-jersey-show-evacuation.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: http://www.thefader.com/2018/08/02/beyonce-jay-z-on-the-run-ii-new-jersey-show-evacuation
 ---
 Tonight, Beyoncé and JAY-Z are poised to take the stage in East Rutherford, New Jersey's MetLife Stadium for the first of two OTR II tour stops. However, just before the show was set to kick off at 10PM, the stadium was evacuated due to an impending thunderstorm. Justifiably, the BeyHive was pissed and took to social media to document all the chaos. As of 10:30PM EST, the show is back on, but check out footage of what went down before that below. 
