@@ -4,8 +4,8 @@ title: Azealia Banks SLAMS Beyoncé In Savage Instagram Post
 description: A post from Azealia Banks' Instagram account had harsh words for Beyoncé, accusing the singer of "always trying to steal from talented women." 
 categories: ["Beyonce", "Instagram", "Story", "Criticism"]
 image: assets/images/2018-08-04-beyonce-instagram-story-criticism.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.capitalxtra.com/artists/azealia-banks/news/beyonce-instagram-story-criticism/
 ---
 Azealia Banks has more to say on the topic of Beyoncé. The 27-year-old rapper took to Instagram stories on Friday, August 3 to criticise Beyoncé, accusing her of "always trying to steal from talented women."
