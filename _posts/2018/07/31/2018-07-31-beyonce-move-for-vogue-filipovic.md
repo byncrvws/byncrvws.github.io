@@ -4,8 +4,8 @@ title: Beyoncé's genius move for Vogue
 description: It took someone who sees the world from a different vantage point than, say, Anna Wintour to reportedly bring on a qualified and gifted African-American photographer -- who would be the first to shoot a cover in Vogue's 126-year history --thereby opening up perspective for all of us, writes Jill Filipovic.
 categories: ["Beyonce", "Move", "Vogue", "Filipovic"]
 image: assets/images/2018-07-31-beyonce-move-for-vogue-filipovic.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://edition.cnn.com/2018/07/31/opinions/beyonce-move-for-vogue-filipovic/index.html
 ---
 Next month, Vogue's cover image is reportedly to be the magazine's first shot by a black photographer. Yes, the year is 2018, and never before has an image taken by a black person gotten cover billing in the nation's premier fashion magazine -- a publication that has been around for 126 years. 
