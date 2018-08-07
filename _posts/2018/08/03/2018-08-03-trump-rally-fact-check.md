@@ -4,8 +4,8 @@ title: Trump’s Inaccurate Claims About Highways, Immigration and Beyoncé From
 description: President Trump said his campaign rallies drew larger crowds than concerts for Beyoncé, Jay-Z and Bruce Springsteen. That was one of 15 inaccurate claims he made. 
 categories: ["Trump", "Rally", "Fact", "Check"]
 image: assets/images/2018-08-03-trump-rally-fact-check.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.nytimes.com/2018/08/02/us/politics/trump-rally-fact-check.html
 ---
 President Trump said his campaign rallies drew larger crowds than concerts for Beyoncé, Jay-Z and Bruce Springsteen. That was one of 15 inaccurate claims he made.
