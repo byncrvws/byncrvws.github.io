@@ -7,6 +7,8 @@ image: assets/images/2018-08-07-i-come-from-a-slaveowner.jpg
 featured: true
 hidden: true
 reference: https://www.irishtimes.com/culture/beyonc%C3%A9-i-come-from-a-slaveowner-1.3588679
+author_name: The Irish Times
+author_type: Organization
 ---
 Beyoncé has said she is descended from a slaveowner, in a new interview with Vogue in which she also speaks candidly about race, body image, her children and her creativity.
 

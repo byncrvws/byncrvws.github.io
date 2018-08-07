@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://schema.org/WebPage",
+    "url": "{{ page.url | absolute_url }}"
+  },
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "image": [
+    "{{ page.image | absolute_url }}"
+  ],
+  "dateModified": "{{ page.date | date:"%Y-%m-%dT00:00+10:00" }}",
+  "datePublished": "{{ page.date | date:"%Y-%m-%dT00:00+10:00" }}",
+  "author": {
+    {% if page.author_type %}
+    "@type": "{{ page.author_type }}",
+    {% endif %}
+    {% if page.author_name %}
+    "name": "{{ page.author_name }}"
+    {% endif %}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "B Réviews",
+    "url": "https://beyonce.reviews",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://beyonce.reviews/assets/images/logo.png"
+    }
+  }
+}
