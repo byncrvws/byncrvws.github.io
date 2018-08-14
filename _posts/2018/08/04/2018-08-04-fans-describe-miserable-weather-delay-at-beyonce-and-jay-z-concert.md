@@ -4,8 +4,8 @@ title: Fans 'hot and bothered' after Beyoncé and Jay-Z's concert delayed hours 
 description: "A source told us: “It was clear that something was up when DJ Khaled’s opening set kept going on and on, as the MetLife audience grew impatient for Bey and Jay to hit the stage."
 categories: ["Fans", "Describe", "Miserable", "Weather", "Delay", "Beyonce", "Concert"]
 image: assets/images/2018-08-04-fans-describe-miserable-weather-delay-at-beyonce-and-jay-z-concert.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://pagesix.com/2018/08/03/fans-describe-miserable-weather-delay-at-beyonce-and-jay-z-concert/
 ---
 Beyoncé and Jay-Z’s On the Run II Tour had fans running out of MetLife Stadium Thursday night after the entire venue was evacuated over a thunderstorm.
