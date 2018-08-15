@@ -4,8 +4,8 @@ title: Beyonce has the cutest reaction after realising Instagram selfie prank
 description: Don’t worry Bey, we’ve all been there.
 categories: ["Beyonce", "Falls", "Classic", "Selfie", "Prank", "Backstage"]
 image: assets/images/2018-08-04-beyonce-is-all-of-us-as-she-falls-for-classic-selfie-prank-backstage.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://metro.co.uk/2018/08/04/beyonce-is-all-of-us-as-she-falls-for-classic-selfie-prank-backstage-7797448/
 ---
 The Apes**t singer was pranked into thinking she was taking a selfie but eventually realised it was a video. Classic.
