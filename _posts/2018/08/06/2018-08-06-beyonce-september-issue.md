@@ -4,8 +4,8 @@ title: "Beyoncé September Issue in Her Own Words: Her Life, Her Body, Her Herit
 description: The star on pregnancy, her lineage, and body acceptance.
 categories: ["Beyonce", "September", "Issue"]
 image: assets/images/2018-08-06-beyonce-september-issue.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.vogue.com/article/beyonce-september-issue-2018
 ---
 ## Pregnancy & Body Acceptance
