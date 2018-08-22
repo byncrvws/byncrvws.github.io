@@ -4,8 +4,8 @@ title: Beyoncé, Rihanna, black women command the covers of 2018 September issue
 description: BlackGirlMagic is in full effect with stars from Beyonce to Rihanna on the covers of Vogue, Elle, Glamour and other September issues.
 categories: ["Beyonce", "Rihanna", "Black", "Women", "Command", "Covers", "September", "Issues"]
 image: assets/images/2018-08-09-beyonce-rihanna-black-women-command-covers-september-issues.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.usatoday.com/story/life/people/2018/08/09/beyonce-rihanna-black-women-command-covers-2018-september-issues/944560002/
 author_name: Anika Reed
 author_type: Person

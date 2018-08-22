@@ -4,8 +4,8 @@ title: Azealia Banks Accuses Beyoncé of Stealing From Other Artists
 description: "The Harlem rapper claims Bey used stolen choreography from her &#39;Count Contessa&#39; music video: &quot;Beyoncé needs to get over herself and just hire me.&quot;"
 categories: ["Azealia", "Banks", "Accuses", "Beyonce", "Stealing", "From", "Other", "Women"]
 image: assets/images/2018-08-05-azealia-banks-accuses-beyonce-of-stealing-from-other-women.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.complex.com/music/2018/08/azealia-banks-accuses-beyonce-of-stealing-from-other-women
 ---
 Azealia Banks is blasting Beyoncé once again.
