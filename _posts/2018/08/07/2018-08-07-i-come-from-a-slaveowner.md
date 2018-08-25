@@ -4,8 +4,8 @@ title: "Beyoncé: 'I come from a slaveowner'"
 description: Singers speaks candidly about race, body image and creativity in Vogue’s September issue
 categories: ["Come", "From", "Slaveowner"]
 image: assets/images/2018-08-07-i-come-from-a-slaveowner.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.irishtimes.com/culture/beyonc%C3%A9-i-come-from-a-slaveowner-1.3588679
 author_name: The Irish Times
 author_type: Organization
