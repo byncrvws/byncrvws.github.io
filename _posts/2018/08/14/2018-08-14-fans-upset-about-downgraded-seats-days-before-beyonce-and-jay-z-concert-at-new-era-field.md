@@ -4,8 +4,8 @@ title: Fans upset about downgraded seats days before Beyoncé and Jay Z concert 
 description: Many fans are 'Crazy in Love' with the fact that power couple Beyoncé and Jay Z will hit the stage at New Era Field this weekend.  
 categories: ["Fans", "Upset", "Downgraded", "Seats", "Beyonce", "Concert"]
 image: assets/images/2018-08-14-fans-upset-about-downgraded-seats-days-before-beyonce-and-jay-z-concert-at-new-era-field.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.wivb.com/news/local-news/fans-upset-about-downgraded-seats-days-before-beyonce-and-jay-z-concert-at-new-era-field/1366667304
 author_name: Shannon Smith
 author_type: Person
