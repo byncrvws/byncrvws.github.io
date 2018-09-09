@@ -4,8 +4,8 @@ title: Beyoncé Shares Video of Twins to Instagram
 description: So precious, I can't. 
 categories: ["Beyonce", "Twins", "Video", "Instagram"]
 image: assets/images/2018-08-15-beyonce-twins-video-instagram.png
-featured: true
-hidden: true
+featured: false
+hidden: false
 reference: https://www.cosmopolitan.com/entertainment/a22733722/beyonce-twins-video-instagram/
 author_name: Mehera Bonner  
 author_type: Person
